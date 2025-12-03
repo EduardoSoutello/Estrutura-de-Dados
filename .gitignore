@@ -1,0 +1,19 @@
+# C/C++ Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+*.a
+
+# IDE
+.vscode/
+.vs/
+*.swp
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
